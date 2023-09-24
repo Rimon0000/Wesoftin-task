@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "name": "Ron Doja",
+        "photo": "https://i.ibb.co/qFhRmQF/men1.jpg",
+        "username": "johndoe",
+        "email": "johndoe@example.com",
+        "address": {
+            "street": "123 Main Street",
+            "suite": "Apt. 456",
+            "city": "Anytown",
+            "zipcode": "12345"
+        },
+        "phone": "555-555-5555",
+        "website": "johndoe.com",
+        "company": {
+            "name": "Doe Industries",
+            "catchPhrase": "Innovating the future",
+            "bs": "Global solutions provider"
+        },
+        "expertise": "Software Development"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "photo": "https://i.ibb.co/MGKqXVN/men2.jpg",
+        "username": "janesmith",
+        "email": "janesmith@example.com",
+        "address": {
+            "street": "456 Elm Street",
+            "suite": "Suite 789",
+            "city": "Smallville",
+            "zipcode": "54321"
+        },
+        "phone": "555-123-4567",
+        "website": "janesmith.net",
+        "company": {
+            "name": "Smith Enterprises",
+            "catchPhrase": "Connecting people and technology",
+            "bs": "Innovative tech solutions"
+        },
+        "expertise": "Web Design"
+    },
+    {
+        "id": 3,
+        "name": "David Williams",
+        "photo": "https://i.ibb.co/ts3zw0r/men3.jpg",
+        "username": "davidw",
+        "email": "davidw@example.com",
+        "address": {
+            "street": "789 Oak Avenue",
+            "suite": "Apt. 123",
+            "city": "Techville",
+            "zipcode": "98765"
+        },
+        "phone": "555-789-1234",
+        "website": "davidw.org",
+        "company": {
+            "name": "Williams Tech",
+            "catchPhrase": "Empowering businesses through technology",
+            "bs": "Tech solutions for the modern world"
+        },
+        "expertise": "Data Analysis"
+    },
+    {
+        "id": 4,
+        "name": "Emily Johnson",
+        "photo": "https://i.ibb.co/jZRFR9N/women1.jpg",
+        "username": "emilyj",
+        "email": "emilyj@example.com",
+        "address": {
+            "street": "987 Pine Road",
+            "suite": "Suite 654",
+            "city": "Digital City",
+            "zipcode": "45678"
+        },
+        "phone": "555-987-6543",
+        "website": "emilyj.info",
+        "company": {
+            "name": "Digital Innovations",
+            "catchPhrase": "Transforming the digital landscape",
+            "bs": "Cutting-edge digital solutions"
+        },
+        "expertise": "Digital Marketing"
+    },
+    {
+        "id": 5,
+        "name": "Michael Brown",
+        "photo": "https://i.ibb.co/q1PF50b/men5.jpg",
+        "username": "michaelb",
+        "email": "michaelb@example.com",
+        "address": {
+            "street": "345 Cedar Lane",
+            "suite": "Apt. 987",
+            "city": "Techtopia",
+            "zipcode": "23456"
+        },
+        "phone": "555-234-5678",
+        "website": "michaelb.co",
+        "company": {
+            "name": "Tech Innovators",
+            "catchPhrase": "Driving innovation in tech",
+            "bs": "Tech solutions for the future"
+        },
+        "expertise": "Artificial Intelligence"
+    },
+    {
+        "id": 6,
+        "name": "Sarah Davis",
+        "photo": "https://i.ibb.co/VVCqfdL/women3.jpg",
+        "username": "sarahd",
+        "email": "sarahd@example.com",
+        "address": {
+            "street": "234 Birch Street",
+            "suite": "Suite 321",
+            "city": "Innovationville",
+            "zipcode": "34567"
+        },
+        "phone": "555-876-5432",
+        "website": "sarahd.biz",
+        "company": {
+            "name": "Innovation Solutions",
+            "catchPhrase": "Pioneering the future of innovation",
+            "bs": "Innovative solutions for a better world"
+        },
+        "expertise": "User Experience Design"
+    },
+    {
+        "id": 7,
+        "name": "James Wilson",
+        "photo": "https://i.ibb.co/YQYcnbt/men7.jpg",
+        "username": "jamesw",
+        "email": "jamesw@example.com",
+        "address": {
+            "street": "789 Willow Drive",
+            "suite": "Apt. 456",
+            "city": "Techville",
+            "zipcode": "56789"
+        },
+        "phone": "555-765-4321",
+        "website": "jamesw.tech",
+        "company": {
+            "name": "Tech Pioneers",
+            "catchPhrase": "Leading the way in tech innovation",
+            "bs": "Tech solutions that shape the future"
+        },
+        "expertise": "Cybersecurity"
+    },
+    {
+        "id": 8,
+        "name": "Olivia Lee",
+        "photo": "https://i.ibb.co/7tF2zsC/women4.jpg",
+        "username": "olivial",
+        "email": "olivial@example.com",
+        "address": {
+            "street": "123 Oak Avenue",
+            "suite": "Suite 654",
+            "city": "Digital City",
+            "zipcode": "43210"
+        },
+        "phone": "555-654-3210",
+        "website": "olivial.net",
+        "company": {
+            "name": "Digital Innovations",
+            "catchPhrase": "Shaping the digital future",
+            "bs": "Innovative digital solutions"
+        },
+        "expertise": "Software Development"
+    },
+    {
+        "id": 9,
+        "name": "William Taylor",
+        "photo": "https://i.ibb.co/f9yxYGJ/men8.jpg",
+        "username": "williamt",
+        "email": "williamt@example.com",
+        "address": {
+            "street": "456 Elm Street",
+            "suite": "Apt. 123",
+            "city": "Innovationville",
+            "zipcode": "32198"
+        },
+        "phone": "555-543-2109",
+        "website": "williamt.info",
+        "company": {
+            "name": "Innovation Tech",
+            "catchPhrase": "Revolutionizing technology",
+            "bs": "Tech solutions for a brighter future"
+        },
+        "expertise": "Machine Learning"
+    },
+    {
+        "id": 10,
+        "name": "Amanda Miller",
+        "photo": "https://i.ibb.co/cFHdr58/women5.jpg",
+        "username": "amandam",
+        "email": "amandam@example.com",
+        "address": {
+            "street": "567 Cedar Lane",
+            "suite": "Apt. 456",
+            "city": "Techtopia",
+            "zipcode": "45612"
+        },
+        "phone": "555-678-9012",
+        "website": "amandam.biz",
+        "company": {
+            "name": "Tech Visionaries",
+            "catchPhrase": "Envisioning a tech-driven world",
+            "bs": "Innovative tech solutions for all"
+        },
+        "expertise": "Data Science"
+    }
+]
