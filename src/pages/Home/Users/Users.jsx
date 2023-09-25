@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 
 const Users = () => {
     const [users, setUsers] = useState([])
@@ -35,7 +36,9 @@ const Users = () => {
                     </td>
                     <td>{user.name}</td>
                     <td>{user.email}</td>
-                    <td><button className="btn btn-outline btn-primary">Details</button></td>
+                    <td><Link to={`/users/${user.id}`}>
+                      <button className="btn btn-outline mt-3">View Details</button>
+                       </Link></td>
                   </tr>
                 ))}
               </tbody>
