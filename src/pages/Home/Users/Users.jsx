@@ -1,14 +1,9 @@
-import { useEffect, useState } from "react";
+import { useContext} from "react";
 import { Link } from "react-router-dom";
+import { SharedContext } from "../../../providers/ContextProvider";
 
 const Users = () => {
-    const [users, setUsers] = useState([])
-
-    useEffect(() =>{
-        fetch('/data.json')
-        .then(res => res.json())
-        .then(data => setUsers(data))
-    },[])
+  const {users} = useContext(SharedContext)
 
     return (
         <div className='w-full'>
